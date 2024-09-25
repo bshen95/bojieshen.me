@@ -1,13 +1,22 @@
 ---
-title: "Paper Title Number 4"
-collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+layout: archive
+title: "Advances in Pathfinding Algorithms for Games, Route Planning Software, and Automated Warehouses"
+permalink: /publications/bojieThesis/
+author_profile: true
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+{% include base_path %}
+
+**Jiaoyang Li**.      
+<i>PhD thesis, Department of Computer Science, University of Southern California, Los Angeles (California)</i>, 2022.                           
+[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiPhD22');">bibtex</a>]
+[[pdf](/files/phd-thesis-final.pdf)]
+<div id="bibtex-LiPhD22" style="display:none">
+<pre>@phdthesis{LiPhD22,
+  title={Efficient and Effective Techniques for Large-Scale Multi-Agent Path Finding},
+  author={Jiaoyang Li},
+  school    = {University of Southern California},
+  year={2022}
+}
+</pre></div>
+     
