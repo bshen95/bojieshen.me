@@ -8,7 +8,8 @@ redirect_from:
 ---
 I am a postdoctoral research fellow in the Urban Computing Lab at Monash University. I received my Ph.D. from the Faculty of Information Technology at Monash University, under the supervision of Associate Professor Muhammad Aamir Cheema, Associate Professor Daniel Harabor, and Professor Peter Stuckey. I also hold a Bachelor of Software Engineering (with Honors) from the same institution. My research interests encompass a variety of topics related to transportation and optimization, including heuristic search, multi-agent pathfinding, and electric vehicle routing.
 
-
+* Check out my **publications** [here](https://bshen95.github.io/bojieshen.me/publications/).
+* Check out my **CV** [here](https://bshen95.github.io/bojieshen.me/files/bojieCV.pdf).
 
 A data-driven personal website
 ======
