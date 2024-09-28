@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Efficient Alternative Route Planning in Road Networks"
-permalink: /publications/fahmin2024eco/
+permalink: /publications/fahmin2024efficient/
 author_profile: true
 ---
 
