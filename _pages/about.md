@@ -130,7 +130,7 @@ Pathfinding queries are one of the most ubiquitous practical uses of computing, 
     </div>
     <!-- road network -->
     <div class="flex-child card">
-        <a href="https://bshen95.github.io/bojieshen.me/research/RoadNetwork/">
+        <a href="https://bshen95.github.io/bojieshen.me/research/RoadNetwork">
             <p class="image__title"> Path Planning in Road Network </p>
             <div class="image">
                 <img class="image__img" src="https://bshen95.github.io/bojieshen.me/images/roadNetwork.gif" alt="roadNetwork" />
@@ -144,7 +144,7 @@ Pathfinding queries are one of the most ubiquitous practical uses of computing, 
     </div>
     <!-- warehouse -->
     <div class="flex-child card">
-        <a href="https://bshen95.github.io/bojieshen.me/research/MAPF/">
+        <a href="https://bshen95.github.io/bojieshen.me/research/MAPF">
             <p class="image__title"> Multi-Agent Path Finding for Automated Warehouse </p>
             <div class="image">
                 <img class="image__img" src="https://bshen95.github.io/bojieshen.me/images/MAPF.gif" alt="Robotic Arms">
@@ -158,7 +158,7 @@ Pathfinding queries are one of the most ubiquitous practical uses of computing, 
     </div>
     <!-- traffic -->
     <div class="flex-child card">
-        <a href="https://bshen95.github.io/bojieshen.me/research/Transportation/">
+        <a href="https://bshen95.github.io/bojieshen.me/research/Transportation">
             <p class="image__title">Real-Time Public Transportation Routing  </p>
             <div class="image">
                 <img class="image__img" src="https://bshen95.github.io/bojieshen.me/images/Trans.gif" alt="Railway Planning">
