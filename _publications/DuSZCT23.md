@@ -13,7 +13,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 [[pdf](https://bshen95.github.io/bojieshen.me/files/DuSZCT23.pdf)]
 [[publisher](https://www.ijcai.org/proceedings/2023/0618.pdf)]
 [[code](https://github.com/goldi1027/GT-EHL)]
-[[slides](/files//IJCAI-Goldi.pdf)]
+[[slides](https://bshen95.github.io/bojieshen.me/files//IJCAI-Goldi.pdf)]
 <div id="bibtex-DuSZCT23" style="display:none">
 <pre> @inproceedings{DBLP:conf/ijcai/DuSZCT23,
   author       = {Jinchun Du and

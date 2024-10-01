@@ -93,7 +93,7 @@ You can also find my articles on
     [[pdf](https://bshen95.github.io/bojieshen.me/files/Shen00CHS23.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/27217)]
     [[code](https://github.com/bshen95/CBSH2-RTC-CHBP)]
-    [[slides](/files/ICAPS-23.pdf)]
+    [[slides](https://bshen95.github.io/bojieshen.me/files/ICAPS-23.pdf)]
 <div id="bibtex-Shen00CHS23" style="display:none">
 <pre> @inproceedings{DBLP:conf/aips/Shen00CHS23,
   author       = {Bojie Shen and
@@ -126,7 +126,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
     [[pdf](https://bshen95.github.io/bojieshen.me/files/DuSZCT23.pdf)]
     [[publisher](https://www.ijcai.org/proceedings/2023/0618.pdf)]
     [[code](https://github.com/goldi1027/GT-EHL)]
-    [[slides](/files//IJCAI-Goldi.pdf)]
+    [[slides](https://bshen95.github.io/bojieshen.me/files//IJCAI-Goldi.pdf)]
 <div id="bibtex-DuSZCT23" style="display:none">
 <pre> @inproceedings{DBLP:conf/ijcai/DuSZCT23,
   author       = {Jinchun Du and
@@ -157,7 +157,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 [[pdf](https://bshen95.github.io/bojieshen.me/files/DuSC23.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/26463)]
 [[code](https://github.com/goldi1027/EHL)]
-[[slides](/files//AAAI-Goldi.pdf)]
+[[slides](https://bshen95.github.io/bojieshen.me/files//AAAI-Goldi.pdf)]
 <div id="bibtex-DuSC23" style="display:none">
 <pre> @inproceedings{DBLP:conf/aaai/DuSC23,
   author       = {Jinchun Du and
@@ -192,7 +192,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
     [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS222.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/19818)]
     [[code](https://github.com/bshen95/Improving-TCH)]
-    [[slides](/files/ICAPS-22.pdf)]
+    [[slides](https://bshen95.github.io/bojieshen.me/files/ICAPS-22.pdf)]
 <div id="bibtex-ShenCHS222" style="display:none">
 <pre> @inproceedings{DBLP:conf/aips/ShenCHS222,
   author       = {Bojie Shen and
@@ -251,7 +251,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenCHS21');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS21.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/15977)]
-    [[slides](/files/ICAPS-21.pdf)]
+    [[slides](https://bshen95.github.io/bojieshen.me/files/ICAPS-21.pdf)]
 <div id="bibtex-ShenCHS21" style="display:none">
 <pre> @inproceedings{DBLP:conf/aips/ShenCHS21,
   author       = {Bojie Shen and
@@ -290,7 +290,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
     [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS20.pdf)]
     [[code](https://github.com/bshen95/End-Point-Search)]
     [[presentation](https://www.ijcai.org/proceedings/2020/video/26798)]
-    [[slides](/files/IJCAI-20.pdf)]
+    [[slides](https://bshen95.github.io/bojieshen.me/files/IJCAI-20.pdf)]
 <div id="bibtex-ShenCHS20" style="display:none">
 <pre>@inproceedings{DBLP:conf/ijcai/ShenCHS20,
   author       = {Bojie Shen and

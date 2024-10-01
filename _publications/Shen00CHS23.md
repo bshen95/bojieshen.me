@@ -13,7 +13,7 @@ author_profile: true
 [[pdf](https://bshen95.github.io/bojieshen.me/files/Shen00CHS23.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/27217)]
 [[code](https://github.com/bshen95/CBSH2-RTC-CHBP)]
-[[slides](/files/ICAPS-23.pdf)]
+[[slides](https://bshen95.github.io/bojieshen.me/files/ICAPS-23.pdf)]
 <div id="bibtex-Shen00CHS23" style="display:none">
 <pre>@inproceedings{DBLP:conf/aips/Shen00CHS23,
   author       = {Bojie Shen and

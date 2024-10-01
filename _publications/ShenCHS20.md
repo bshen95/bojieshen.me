@@ -14,7 +14,7 @@ author_profile: true
 [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS20.pdf)]
 [[code](https://github.com/bshen95/End-Point-Search)]
 [[presentation](https://www.ijcai.org/proceedings/2020/video/26798)]
-[[slides](/files/IJCAI-20.pdf)]
+[[slides](https://bshen95.github.io/bojieshen.me/files/IJCAI-20.pdf)]
 <div id="bibtex-ShenCHS20" style="display:none">
 <pre>@inproceedings{DBLP:conf/ijcai/ShenCHS20,
   author       = {Bojie Shen and

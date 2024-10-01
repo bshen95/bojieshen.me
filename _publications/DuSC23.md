@@ -13,7 +13,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 [[pdf](https://bshen95.github.io/bojieshen.me/files/DuSC23.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/26463)]
 [[code](https://github.com/goldi1027/EHL)]
-[[slides](/files//AAAI-Goldi.pdf)]
+[[slides](https://bshen95.github.io/bojieshen.me/files//AAAI-Goldi.pdf)]
 <div id="bibtex-DuSC23" style="display:none">
 @inproceedings{DBLP:conf/aaai/DuSC23,
   author       = {Jinchun Du and

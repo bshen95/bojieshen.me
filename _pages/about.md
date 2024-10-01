@@ -116,10 +116,10 @@ Pathfinding queries are one of the most ubiquitous practical uses of computing, 
 <div class="flex-container is-flex-wrap">
     <!-- Euclidean -->
     <div class="flex-child card">
-        <a href="/research/Euclidean">
+        <a href="https://bshen95.github.io/bojieshen.me/research/Euclidean">
             <p class="image__title"> Euclidean Pathfinding for Games </p>
             <div class="image">
-                <img class="image__img" src="/images/polyanya.gif" alt="Euclidean" />
+                <img class="image__img" src="https://bshen95.github.io/bojieshen.me/images/polyanya.gif" alt="Euclidean" />
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
                         We develop efficient algorithms to solve pathfinding and planning task in Euclidean plane for games.
@@ -130,10 +130,10 @@ Pathfinding queries are one of the most ubiquitous practical uses of computing, 
     </div>
     <!-- road network -->
     <div class="flex-child card">
-        <a href="/research/RoadNetwork/">
+        <a href="https://bshen95.github.io/bojieshen.me/research/RoadNetwork/">
             <p class="image__title"> Path Planning in Road Network </p>
             <div class="image">
-                <img class="image__img" src="/images/roadNetwork.gif" alt="roadNetwork" />
+                <img class="image__img" src="https://bshen95.github.io/bojieshen.me/images/roadNetwork.gif" alt="roadNetwork" />
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
                        In road networks, we design efficient algorithms for pathfinding in navigation software and for solving other location-based services in spatial databases.
@@ -144,10 +144,10 @@ Pathfinding queries are one of the most ubiquitous practical uses of computing, 
     </div>
     <!-- warehouse -->
     <div class="flex-child card">
-        <a href="/research/MAPF/">
+        <a href="https://bshen95.github.io/bojieshen.me/research/MAPF/">
             <p class="image__title"> Multi-Agent Path Finding for Automated Warehouse </p>
             <div class="image">
-                <img class="image__img" src="/images/MAPF.gif" alt="Robotic Arms">
+                <img class="image__img" src="https://bshen95.github.io/bojieshen.me/images/MAPF.gif" alt="Robotic Arms">
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
                         We address the core challenges of the Multi-Agent Path Finding (MAPF) problem and develop efficient algorithms to solve complex MAPF instances.
@@ -158,10 +158,10 @@ Pathfinding queries are one of the most ubiquitous practical uses of computing, 
     </div>
     <!-- traffic -->
     <div class="flex-child card">
-        <a href="/research/Transportation/">
+        <a href="https://bshen95.github.io/bojieshen.me/research/Transportation/">
             <p class="image__title">Real-Time Public Transportation Routing  </p>
             <div class="image">
-                <img class="image__img" src="/images/Trans.gif" alt="Railway Planning">
+                <img class="image__img" src="https://bshen95.github.io/bojieshen.me/images/Trans.gif" alt="Railway Planning">
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
                         We develop efficient algorithms to find optimal journeys for users, accounting for transfers, and design algorithms to handle delays that may occur in real-time transportation systems.

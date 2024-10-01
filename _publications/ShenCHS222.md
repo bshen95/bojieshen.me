@@ -13,7 +13,7 @@ author_profile: true
 [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS222.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/19818)]
 [[code](https://github.com/bshen95/Improving-TCH)]
-[[slides](/files/ICAPS-22.pdf)]
+[[slides](https://bshen95.github.io/bojieshen.me/files/ICAPS-22.pdf)]
 <div id="bibtex-ShenCHS222" style="display:none">
 <pre> @inproceedings{DBLP:conf/aips/ShenCHS222,
   author       = {Bojie Shen and
