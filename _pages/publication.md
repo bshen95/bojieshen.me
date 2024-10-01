@@ -20,6 +20,7 @@ You can also find my articles on
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Abu-AishaWHS24');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/Abu-AishaWHS24.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/31536)]
+    [[slides](https://bshen95.github.io/bojieshen.me/files/SoCS-24.pdf)]
 <div id="bibtex-Abu-AishaWHS24" style="display:none">
 <pre> @inproceedings{DBLP:conf/socs/Abu-AishaWHS24,
   author       = {Abdallah Abu{-}Aisha and
