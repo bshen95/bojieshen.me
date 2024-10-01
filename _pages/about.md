@@ -11,41 +11,197 @@ I am a postdoctoral research fellow in the Urban Computing Lab at Monash Univers
 * Check out my **publications** [here](https://bshen95.github.io/bojieshen.me/publications/).
 * Check out my **CV** [here](https://bshen95.github.io/bojieshen.me/files/bojieCV.pdf).
 
-A data-driven personal website
+Research
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Pathfinding queries are one of the most ubiquitous practical uses of computing, which involve navigating an agent or groups of agents from the source locations to their destination locations in a shared environment. These queries are critical to numerous real-world applications, such as path planning in video games, route optimization in GPS navigation systems, multi-robot coordination in automated warehouses, drone swarm management, and etc., These efforts have led to numerous advances and optimisations over the past decades. The majority of attention is on finding paths that: (i) meet domain-specific constraints (e.g., avoiding obstacles, avoiding collisions with other agents, etc.); (ii) are of reasonable quality (e.g., minimal distance, minimal travel time, etc.); and (iii) as efficient as possible in terms of response time and computational resources (e.g., memory and preprocessing time). My research focuses on developing efficient algorithms to solve pathfinding queries and related planning tasks across various application domains, including games, road networks, warehouses, and more.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<style>
+.flex-container {
+    display: flex;
+}
 
-**Markdown generator**
+.is-flex-wrap {
+  flex-wrap: wrap;
+}
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+.flex-child{
+    padding:.75rem;
+    min-width:300px;
+    flex: 1;
+    margin-right: 20px;
+    margin-top: 20px;
+}
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 0.75rem;
+  flex-direction: column;
+  max-width: 100%;
+  border-radius: 5px;
+}
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.2);
+}
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+.image {
+    position: relative;
+    width: 250px;
+    margin-top: 1.0em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image__title {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1.0em;
+}
+
+.image__img {
+    display: block;
+    width: 300px;
+    height: 200px;
+}
+.image__description {
+    margin-top: 0.25em;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    text-align: center;
+    font-size: 0.8em;
+    font-weight: normal
+}
+
+.image__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+
+.image__overlay--blur {
+    backdrop-filter: blur(5px);
+}
+
+.image__overlay > * {
+    transform: translateY(20px);
+    transition: transform 0.25s;
+}
+
+.image__overlay:hover {
+    opacity: 1;
+}
+
+.image__overlay:hover > * {
+    transform: translateY(0);
+}
+</style>
+
+
+<div class="flex-container is-flex-wrap">
+    <!-- Euclidean -->
+    <div class="flex-child card">
+        <a href="/research/Euclidean">
+            <p class="image__title"> Euclidean Pathfinding for Games </p>
+            <div class="image">
+                <img class="image__img" src="/images/polyanya.gif" alt="Euclidean" />
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We develop efficient algorithms to solve pathfinding and planning task in Euclidean plane for games.
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <!-- road network -->
+    <div class="flex-child card">
+        <a href="/research/RoadNetwork/">
+            <p class="image__title"> Path Planning in Road Network </p>
+            <div class="image">
+                <img class="image__img" src="/images/roadNetwork.gif" alt="roadNetwork" />
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                       In road networks, we design efficient algorithms for pathfinding in navigation software and for solving other location-based services in spatial databases.
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <!-- warehouse -->
+    <div class="flex-child card">
+        <a href="/research/MAPF/">
+            <p class="image__title"> Multi-Agent Path Finding for Automated Warehouse </p>
+            <div class="image">
+                <img class="image__img" src="/images/MAPF.gif" alt="Robotic Arms">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We address the core challenges of the Multi-Agent Path Finding (MAPF) problem and develop efficient algorithms to solve complex MAPF instances.
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <!-- traffic -->
+    <div class="flex-child card">
+        <a href="/research/Transportation/">
+            <p class="image__title">Real-Time Public Transportation Routing  </p>
+            <div class="image">
+                <img class="image__img" src="/images/Trans.gif" alt="Railway Planning">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We develop efficient algorithms to find optimal journeys for users, accounting for transfers, and design algorithms to handle delays that may occur in real-time transportation systems.
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    <!-- drones -->
+    <!-- <div class="flex-child card">
+        <a href="/research/drones/">
+            <p class="image__title"> Planning for Complex Robot Teams </p>
+            <div class="image">
+                <img class="image__img" src="/images/drone_side.gif" alt="Drones">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We generalize MAPF algorithms to coordinate teams of
+                        heterogeneous and nonholonomic robots
+                        by considering various practical constraints from robotics.
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div> -->
+    <!-- others -->
+    <!--
+    <div class="flex-child card">
+        <p class="image__title"> Other Projects </p>
+        <div class="image">
+            <a href="https://jiaoyangli.me/research/others/">
+                <img class="image__img" src="https://jiaoyangli.me/images/3d-fastmap.png" alt="FastMap">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We perform other planning and search related projects,
+                        such as graph embeddings, multi-agent meeting problems, etc.
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    -->
+</div>

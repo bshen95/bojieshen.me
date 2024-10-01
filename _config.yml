@@ -155,6 +155,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _research
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -223,6 +224,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  
 
 
 # These settings control how pages and collections are included in the site
@@ -272,6 +274,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
@@ -280,7 +291,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
 
 # Sass/SCSS
 sass:

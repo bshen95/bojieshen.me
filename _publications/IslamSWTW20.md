@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Md Saiful Islam, **Bojie Shen**, Can Wang, David Taniar, Junhu Wang.                 
-<i>Information Systems</i>, pages 101530, 2020.                    
+<i>Information Systems</i>, pages 101530, 2020.  (CORE - A*)                   
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-IslamSWTW20');">bibtex</a>]
 [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300363)]
 <div id="bibtex-IslamSWTW20" style="display:none">

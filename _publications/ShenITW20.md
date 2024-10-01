@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Bojie Shen**, Md Saiful Islam, David Taniar, Junhu Wang.          
-<i>World Wide Web Journal</i>, pages 207-239, 2020.                
+<i>World Wide Web Journal</i>, pages 207-239, 2020. (CORE - A)                 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-shen2023advances');">bibtex</a>]
 [[publisher](https://link.springer.com/article/10.1007/s11280-019-00694-w)]
 <div id="bibtex-shen2023advances" style="display:none">

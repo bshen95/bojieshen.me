@@ -8,11 +8,12 @@ author_profile: true
 {% include base_path %}
 
 Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran Toosi.            
-<i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</i>, page 12417-12426, 2023.      
+<i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</i>, page 12417-12426, 2023. (CORE - A*)      
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-DuSC23');">bibtex</a>]
 [[pdf](https://bshen95.github.io/bojieshen.me/files/DuSC23.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/26463)]
 [[code](https://github.com/goldi1027/EHL)]
+[[slides](/files//AAAI-Goldi.pdf)]
 <div id="bibtex-DuSC23" style="display:none">
 @inproceedings{DBLP:conf/aaai/DuSC23,
   author       = {Jinchun Du and

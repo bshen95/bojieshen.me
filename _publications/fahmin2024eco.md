@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Ahmed Fahmin, Muhammad Aamir Cheema, Mohammed Eunus Ali, Adel Nadjaran Toosi, Hua Lu, Huan Li, David Taniar, Hesham A. Rakha, **Bojie Shen**.                    
-<i>ACM Computing Surveys</i>, 2024.                 
+<i>ACM Computing Surveys</i>, 2024.  (CORE - A*)                
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-fahmin2024eco');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/fahmin2024eco.pdf)]
     [[publisher](https://dl.acm.org/doi/abs/10.1145/3691624)]

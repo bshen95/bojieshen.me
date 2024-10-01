@@ -16,7 +16,7 @@ You can also find my articles on
 
 * [Efficient and Exact Public Transport Routing via a Transfer Connection Database](https://bshen95.github.io/bojieshen.me/publications/Abu-AishaWHS24).     
     Abdallah Abuaisha, Mark Wallace, Daniel Harabor, **Bojie Shen**.            
-    <i>Proceedings of the International Symposium on Combinatorial Search</i>, pages 2-10, 2024.          
+    <i>Proceedings of the International Symposium on Combinatorial Search (SoCS)</i>, pages 2-10, 2024. (CORE - A)          
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Abu-AishaWHS24');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/Abu-AishaWHS24.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/31536)]
@@ -47,7 +47,7 @@ You can also find my articles on
 
 * [Efficient Alternative Route Planning in Road Networks](https://bshen95.github.io/bojieshen.me/publications/fahmin2024efficient).     
     Ahmed Fahmin, **Bojie Shen**, Muhammad Aamir Cheema, Adel N Toosi, Mohammed Eunus Ali.              
-    <i>IEEE Transactions on Intelligent Transportation Systems</i>, 2024.          
+    <i>IEEE Transactions on Intelligent Transportation Systems</i>, 2024. (IF=9.55, CiteScore=13.7)          
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-fahmin2024efficient');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/fahmin2024efficient.pdf)]
     [[publisher](https://ieeexplore.ieee.org/abstract/document/10528790)]
@@ -66,7 +66,7 @@ You can also find my articles on
 
 * [Eco-Friendly Route Planning Algorithms: Taxonomies, Literature Review and Future Directions](https://bshen95.github.io/bojieshen.me/publications/fahmin2024eco).     
     Ahmed Fahmin, Muhammad Aamir Cheema, Mohammed Eunus Ali, Adel Nadjaran Toosi, Hua Lu, Huan Li, David Taniar, Hesham A. Rakha, **Bojie Shen**.               
-    <i>ACM Computing Surveys</i>, 2024.          
+    <i>ACM Computing Surveys</i>, 2024. (CORE - A*)         
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-fahmin2024eco');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/fahmin2024eco.pdf)]
     [[publisher](https://dl.acm.org/doi/abs/10.1145/3691624)]
@@ -88,11 +88,12 @@ You can also find my articles on
 ## <a name="year2023"></a> 2023 
 * [Beyond pairwise reasoning in multi-agent path finding](https://bshen95.github.io/bojieshen.me/publications/Shen00CHS23).     
     **Bojie Shen**, Zhe Chen, Jiaoyang Li, Muhammad Aamir Cheema, Daniel D Harabor, Peter J Stuckey.            
-    <i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 384-392, 2023.          
+    <i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 384-392, 2023. (CORE - A*)         
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Shen00CHS23');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/Shen00CHS23.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/27217)]
     [[code](https://github.com/bshen95/CBSH2-RTC-CHBP)]
+    [[slides](/files/ICAPS-23.pdf)]
 <div id="bibtex-Shen00CHS23" style="display:none">
 <pre> @inproceedings{DBLP:conf/aips/Shen00CHS23,
   author       = {Bojie Shen and
@@ -120,11 +121,12 @@ You can also find my articles on
 
 * [Efficient object search in game maps](https://bshen95.github.io/bojieshen.me/publications/DuSZCT23).     
 Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran Toosi.            
-<i>Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)</i>, page 5567-5576, 2023.   
+<i>Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)</i>, page 5567-5576, 2023.   (CORE - A*)
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-DuSZCT23');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/DuSZCT23.pdf)]
     [[publisher](https://www.ijcai.org/proceedings/2023/0618.pdf)]
     [[code](https://github.com/goldi1027/GT-EHL)]
+    [[slides](/files//IJCAI-Goldi.pdf)]
 <div id="bibtex-DuSZCT23" style="display:none">
 <pre> @inproceedings{DBLP:conf/ijcai/DuSZCT23,
   author       = {Jinchun Du and
@@ -150,11 +152,12 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 
 * [Ultrafast euclidean shortest path computation using hub labeling](https://bshen95.github.io/bojieshen.me/publications/DuSC23).     
 Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran Toosi.  
-    <i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 12417-12426, 2023.       
+    <i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 12417-12426, 2023. (CORE - A*)       
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-DuSC23');">bibtex</a>]
 [[pdf](https://bshen95.github.io/bojieshen.me/files/DuSC23.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/26463)]
 [[code](https://github.com/goldi1027/EHL)]
+[[slides](/files//AAAI-Goldi.pdf)]
 <div id="bibtex-DuSC23" style="display:none">
 <pre> @inproceedings{DBLP:conf/aaai/DuSC23,
   author       = {Jinchun Du and
@@ -184,11 +187,12 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 ## <a name="year2022"></a> 2022 
 * [Improving time-dependent contraction hierarchies](https://bshen95.github.io/bojieshen.me/publications/ShenCHS222).     
     **Bojie Shen**, Muhammad Aamir Cheema, Daniel D Harabor, Peter J Stuckey.    
-    <i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 338-347, 2022.          
+    <i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 338-347, 2022. (CORE - A*)         
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenCHS222');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS222.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/19818)]
     [[code](https://github.com/bshen95/Improving-TCH)]
+    [[slides](/files/ICAPS-22.pdf)]
 <div id="bibtex-ShenCHS222" style="display:none">
 <pre> @inproceedings{DBLP:conf/aips/ShenCHS222,
   author       = {Bojie Shen and
@@ -215,7 +219,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 
 * [Fast optimal and bounded suboptimal euclidean pathfinding](https://bshen95.github.io/bojieshen.me/publications/ShenCHS22).     
     **Bojie Shen**, Muhammad Aamir Cheema, Daniel D Harabor, Peter J Stuckey.    
-    <i>Artificial Intelligence (AIJ)</i>, page 103624, 2022.          
+    <i>Artificial Intelligence (AIJ)</i>, page 103624, 2022. (CORE - A*)         
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenCHS22');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS22.pdf)]
     [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001752)]
@@ -243,10 +247,11 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 ## <a name="year2021"></a> 2021  
 * [Contracting and compressing shortest path databases](https://bshen95.github.io/bojieshen.me/publications/ShenCHS21).     
     **Bojie Shen**, Muhammad Aamir Cheema, Daniel D Harabor, Peter J Stuckey.    
-    <i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 322-330, 2021.          
+    <i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 322-330, 2021. (CORE - A*)         
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenCHS21');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS21.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/15977)]
+    [[slides](/files/ICAPS-21.pdf)]
 <div id="bibtex-ShenCHS21" style="display:none">
 <pre> @inproceedings{DBLP:conf/aips/ShenCHS21,
   author       = {Bojie Shen and
@@ -277,13 +282,15 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 
 ## <a name="year2020"></a> 2020
 * [Euclidean pathfinding with compressed path databases](https://bshen95.github.io/bojieshen.me/publications/ShenCHS20).     
+    (**Top-ranked algorithm in [GPPC2](https://gppc.search-conference.org/anyangle)**)              
     **Bojie Shen**, Muhammad Aamir Cheema, Daniel D Harabor, Peter J Stuckey.    
-    <i>International Joint Conference on Artificial Intelligence-Pacific Rim International Conference on Artificial Intelligence (IJCAI), 2020</i>, pages 4229-4235, 2020.    
+    <i>International Joint Conference on Artificial Intelligence-Pacific Rim International Conference on Artificial Intelligence (IJCAI), 2020</i>, pages 4229-4235, 2020. (CORE - A*)   
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenCHS20');">bibtex</a>]
     [[publisher](https://www.ijcai.org/proceedings/2020/0584.pdf)]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS20.pdf)]
     [[code](https://github.com/bshen95/End-Point-Search)]
     [[presentation](https://www.ijcai.org/proceedings/2020/video/26798)]
+    [[slides](/files/IJCAI-20.pdf)]
 <div id="bibtex-ShenCHS20" style="display:none">
 <pre>@inproceedings{DBLP:conf/ijcai/ShenCHS20,
   author       = {Bojie Shen and
@@ -309,7 +316,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 
 * [Direction-based spatial skyline for retrieving surrounding objects](https://bshen95.github.io/bojieshen.me/publications/ShenITW20).     
     **Bojie Shen**, Md Saiful Islam, David Taniar, Junhu Wang.     
-    <i>World Wide Web Journal</i>, pages 207-239, 2020.    
+    <i>World Wide Web Journal</i>, pages 207-239, 2020. (CORE - A)   
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenITW20');">bibtex</a>]
     [[publisher](https://link.springer.com/article/10.1007/s11280-019-00694-w)]
 <div id="bibtex-ShenITW20" style="display:none">
@@ -336,7 +343,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 
 * [Direction-based spatial skyline for retrieving arbitrary-shaped surrounding objects](https://bshen95.github.io/bojieshen.me/publications/ShenIT20).     
     **Bojie Shen**, Md Saiful Islam, David Taniar.     
-    <i>The Computer Journal</i>, pages 1668-1688, 2020.    
+    <i>The Computer Journal</i>, pages 1668-1688, 2020. (CORE - B)               
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenIT20');">bibtex</a>]
     [[publisher](https://academic.oup.com/comjnl/article-abstract/63/11/1668/5625928)]
 <div id="bibtex-ShenIT20" style="display:none">
@@ -362,7 +369,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 
 * [Efficient processing of reverse nearest neighborhood queries in spatial databases](https://bshen95.github.io/bojieshen.me/publications/IslamSWTW20).     
     Md Saiful Islam, **Bojie Shen**, Can Wang, David Taniar, Junhu Wang.   
-    <i>Information Systems</i>, pages 101530, 2020.    
+    <i>Information Systems</i>, pages 101530, 2020. (CORE - A*)     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-IslamSWTW20');">bibtex</a>]
     [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300363)]
 <div id="bibtex-IslamSWTW20" style="display:none">
@@ -470,7 +477,8 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 </pre></div>
 
 ## <a name="thesis"></a> PhD Thesis
-* [Advances in Pathfinding Algorithms for Games, Route Planning Software, and Automated Warehouses](https://bshen95.github.io/bojieshen.me/publications/bojieThesis) (**Thesis nominated for CORE Dissertation Award**).           
+* [Advances in Pathfinding Algorithms for Games, Route Planning Software, and Automated Warehouses.](https://bshen95.github.io/bojieshen.me/publications/bojieThesis)            
+(**Thesis nominated for CORE Dissertation Award**)      
     **Bojie Shen**.         
     <i>PhD thesis, Faculty of Information Technology, University of Monash, Melbourne</i>, 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-shen2023advances');">bibtex</a>]

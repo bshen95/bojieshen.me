@@ -8,11 +8,12 @@ author_profile: true
 {% include base_path %}
 
 **Bojie Shen**, Muhammad Aamir Cheema, Daniel D Harabor, Peter J Stuckey.               
-<i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 338-347, 2022.   
+<i>Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)</i>, page 338-347, 2022.   (CORE - A*) 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenCHS222');">bibtex</a>]
 [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS222.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/19818)]
 [[code](https://github.com/bshen95/Improving-TCH)]
+[[slides](/files/ICAPS-22.pdf)]
 <div id="bibtex-ShenCHS222" style="display:none">
 <pre> @inproceedings{DBLP:conf/aips/ShenCHS222,
   author       = {Bojie Shen and

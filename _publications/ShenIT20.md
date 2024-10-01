@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Bojie Shen**, Md Saiful Islam, David Taniar.              
-<i>The Computer Journal</i>, pages 1668-1688, 2020.                 
+<i>The Computer Journal</i>, pages 1668-1688, 2020. (CORE - B)                 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenIT20');">bibtex</a>]
 [[publisher](https://link.springer.com/article/10.1007/s11280-019-00694-w)]
 <div id="bibtex-ShenIT20" style="display:none">

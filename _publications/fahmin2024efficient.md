@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Ahmed Fahmin, **Bojie Shen**, Muhammad Aamir Cheema, Adel N Toosi, Mohammed Eunus Ali.              
-<i>IEEE Transactions on Intelligent Transportation Systems</i>, 2024.                    
+<i>IEEE Transactions on Intelligent Transportation Systems</i>, 2024. (IF=9.55, CiteScore=13.7)               
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-fahmin2024efficient');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/fahmin2024efficient.pdf)]
     [[publisher](https://ieeexplore.ieee.org/abstract/document/10528790)]

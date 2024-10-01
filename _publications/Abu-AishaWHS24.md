@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Abdallah Abuaisha, Mark Wallace, Daniel Harabor, **Bojie Shen**.            
-<i>Proceedings of the International Symposium on Combinatorial Search</i>, pages 2-10, 2024.    
+<i>Proceedings of the International Symposium on Combinatorial Search</i>, pages 2-10, 2024. (CORE - A)     
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Abu-AishaWHS24');">bibtex</a>]
     [[pdf](https://bshen95.github.io/bojieshen.me/files/Abu-AishaWHS24.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/31536)]

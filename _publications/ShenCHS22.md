@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Bojie Shen**, Muhammad Aamir Cheema, Daniel D Harabor, Peter J Stuckey.                   
-<i>Artificial Intelligence(AIJ)</i>, page 103624, 2022.     
+<i>Artificial Intelligence(AIJ)</i>, page 103624, 2022. (CORE - A*) 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenCHS22');">bibtex</a>]
 [[pdf](https://bshen95.github.io/bojieshen.me/files/ShenCHS22.pdf)]
 [[publisher](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001752)]
