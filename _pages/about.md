@@ -130,7 +130,7 @@ Pathfinding queries are one of the most ubiquitous practical uses of computing, 
     </div>
     <!-- road network -->
     <div class="flex-child card">
-        <a href="https://bshen95.github.io/bojieshen.me/research/RoadNetwork">
+        <a href="https://bshen95.github.io/bojieshen.me/research/roadnetwork">
             <p class="image__title"> Path Planning in Road Network </p>
             <div class="image">
                 <img class="image__img" src="https://bshen95.github.io/bojieshen.me/images/roadNetwork.gif" alt="roadNetwork" />
