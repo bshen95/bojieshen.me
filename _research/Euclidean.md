@@ -19,7 +19,7 @@ During the online phase, Polyanya connects the start and target points to the co
 In a range of experiments and empirical comparisons we show that: (i) the auxiliary data structures required by EPS are cheap to build and store; (ii) for optimal search, the new algorithm is faster than a range of recent pathfinding algorithms, with speedups ranging from several factors to over one order of magnitude; (iii) for anytime search, where feasible so- lutions are needed fast, we report even better performance. 
 
 
-<img src="https://bojie-shen.com/images/CPE.pdf" title="CPEAlgorithm" style="float:left;width:250pt;padding-right:10px;" alt="CPEAlgorithm"/>
+<img src="https://bojie-shen.com/images/CPE.png" title="CPEAlgorithm" style="float:left;width:250pt;padding-right:10px;" alt="CPEAlgorithm"/>
  Building on the principles of EPS, [Centroid Path Extraction (CPE) [2]](https://bojie-shen.com/publications/ShenCHS22) extends the CPD such that it computes and compresses first move data of a larger number of selected candidate nodes covering every point in the Euclidean space.
 CPE is an ultra-fast bounded suboptimal pathfinding algorithm that is completely search-free, simultaneously fast, and returns a path within a fixed bound of the optimal solution.
 In a range of empirical results, we show that: (i) our approach outperforms a range of optimal and suboptimal pathfinding algorithms proposed in the literature; (ii) our approach demonstrates excellent path quality, better than all existing suboptimal pathfinding algorithms; and (iii) the approach offers flexibility by allowing a trade-off between the preprocessing cost (space and time) and the suboptimality bound.
