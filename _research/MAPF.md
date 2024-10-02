@@ -12,7 +12,7 @@ In automated warehouses, hundreds of robots work together to pick and deliver it
 
 
 ## Cluster Heurisitic and Bypass
-<img src="https://bojie-shen.com/images/CHBP.png" title="CHBP" style="float:left;width:250pt;padding-right:10px;" alt="CHBP"/>
+<img src="https://bojie-shen.com/images/CHBP.jpg" title="CHBP" style="float:left;width:250pt;padding-right:10px;" alt="CHBP"/>
 Conflict-based Search (CBS) is a state-of-the-art algorithm for MAPF, which can be understood as a best-first search algorithm that routes each agent independently and then re-solves conflicts afterwards. In recent years, there has been massive advances in the efficiency and scalability of CBS. However, all the recent CBS gains come from reasoning over pairs of agents only, we propose a novel algorithm called [Cluster Heuristic and Bypasses (CHBP) [1]](https://bshen95.github.io/bojieshen.me/publications/Shen00CHS23), which overcomes this limitation by extending CBS heuristics to reason about more than two agents at every node. CHBP does this by exploiting mutex propagation, a successful pairwise reasoning technique, which we extend to clusters of more than two agents. CHBP derives stronger bounds for CBS and also generate new kinds of bypasses, where the assigned paths of some agents are replaced to reduce the number of conflicts. In a range of empirical results, CHBP shows substantial improvements for CBS, especially on dense maps.
 
 
