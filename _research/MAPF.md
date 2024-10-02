@@ -19,6 +19,6 @@ Conflict-based Search (CBS) is a state-of-the-art algorithm for MAPF, which can 
 
 
 ## MAPF Tracker
-<img src="https://bojie-shen.com/images/tracker.jpg" title="tracker" style="float:left;width:300pt;padding-right:10px;" alt="tracker"/>
+<img src="https://bojie-shen.com/images/tracker.png" title="tracker" style="float:left;width:300pt;padding-right:10px;" alt="tracker"/>
 MAPF is an important core problem for many new and emerging industrial applications. Many works appear on this topic each year, and a large number of substantial advancements and performance improvements have been reported. Yet measuring overall progress in MAPF is difficult: there are many potential competitors, and the computational burden for comprehensive experimentation is prohibitively large. Moreover, detailed data from past experimentation is usually unavailable. To overcome this issue, we introduce a new set of methodological and visualisation tools to facilitate comparisons between a wide range of MAPF methods. We then undertake a large set of experiments, with several currently leading optimal and suboptimal solvers, in an attempt to map the current Pareto frontier. Finally, we propose a new [online platform](https://tracker.pathfinding.ai) for the MAPF community to track and validate further gains and to improve visibility for and access to existing solvers. 
 This work was also presented as a system demonstration at ICAPS 2023. For a full length manuscript, please visit [here](https://arxiv.org/abs/2305.08446).
