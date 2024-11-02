@@ -479,7 +479,7 @@ Jinchun Du, **Bojie Shen**, Shizhe Zhao, Muhammad Aamir Cheema, Adel Nadjaran To
 
 ## <a name="thesis"></a> PhD Thesis
 * [Advances in Pathfinding Algorithms for Games, Route Planning Software, and Automated Warehouses.](https://bshen95.github.io/bojieshen.me/publications/bojieThesis)            
-(**Thesis nominated for CORE Dissertation Award**)      
+(**[CORE Distinguished Dissertation Award](https://www.core.edu.au/past-award-recipients)**)      
     **Bojie Shen**.         
     <i>PhD thesis, Faculty of Information Technology, University of Monash, Melbourne</i>, 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-shen2023advances');">bibtex</a>]
