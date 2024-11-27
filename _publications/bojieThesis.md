@@ -11,6 +11,7 @@ author_profile: true
 <i>PhD thesis, Faculty of Information Technology, University of Monash, Melbourne</i>, 2023.                     
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-shen2023advances');">bibtex</a>]
 [[pdf](/files/Bojie_Shen_PhD.pdf)]
+[CORE Distinguished Dissertation Award](https://www.core.edu.au/past-award-recipients)
 <div id="bibtex-shen2023advances" style="display:none">
 <pre>@phdthesis{shen2023advances,
   title={Advances in Pathfinding Algorithms for Games, Route Planning Software, and Automated Warehouses},
@@ -19,6 +20,7 @@ author_profile: true
   school={Monash University}
 }
 </pre></div>
+
 
 
 

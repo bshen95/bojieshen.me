@@ -11,6 +11,11 @@ I am a postdoctoral research fellow in the Urban Computing Lab at Monash Univers
 * Check out my **publications** [here](https://bshen95.github.io/bojieshen.me/publications/).
 * Check out my **CV** [here](https://bshen95.github.io/bojieshen.me/files/bojieCV.pdf).
 
+News
+======
+* [2024/11] My doctoral dissertation was honored with the [CORE Australasian Distinguished Doctoral Dissertation Award](https://acsw.core.edu.au/speaker/bojie-shen). Furthermore, I have been invited to present a talk at the 2025 Australasian Computer Science Week, scheduled from February 10–14 at the University of Queensland, Brisbane. Please join me at the conference!
+
+
 Research
 ======
 Pathfinding queries are one of the most ubiquitous practical uses of computing, which involve navigating an agent or groups of agents from the source locations to their destination locations in a shared environment. These queries are critical to numerous real-world applications, such as path planning in video games, route optimization in GPS navigation systems, multi-robot coordination in automated warehouses, drone swarm management, and etc., These efforts have led to numerous advances and optimisations over the past decades. The majority of attention is on finding paths that: (i) meet domain-specific constraints (e.g., avoiding obstacles, avoiding collisions with other agents, etc.); (ii) are of reasonable quality (e.g., minimal distance, minimal travel time, etc.); and (iii) as efficient as possible in terms of response time and computational resources (e.g., memory and preprocessing time). My research focuses on developing efficient algorithms to solve pathfinding queries and related planning tasks across various application domains, including games, road networks, warehouses, and more.
